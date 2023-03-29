@@ -46,7 +46,7 @@ function LaunchRocket() {
           position: "relative",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
-          minHeight: "100svh",
+          minHeight: "100vh",
           minWidth: "100vw",
           display: "flex",
           justifyContent: "center",
