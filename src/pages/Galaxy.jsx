@@ -42,7 +42,7 @@ function Galaxy() {
         break;
       default:
         window.open(
-          "https://wa.me/085156552582?text=maaf%20ya%20sayang.%20i%20love%20you."
+          "https://wa.me/6285156552582?text=maaf%20ya%20sayang%20i%20love%20you"
         );
         break;
     }
