@@ -83,6 +83,7 @@ function App() {
           alignItems: "flex-start",
           marginLeft: "auto",
           marginRight: "auto",
+          color: "white",
         }}
       >
         <audio
@@ -124,6 +125,7 @@ function App() {
                   marginLeft: "auto",
                   marginRight: "auto",
                   height: "40px",
+                  color: "white",
                 }}
                 onClick={playSound}
               >
