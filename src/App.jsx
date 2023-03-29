@@ -147,6 +147,7 @@ function App() {
                     strings: "halo sayang..",
                     autoStart: true,
                     loop: false,
+                    delay: 50,
                   }}
                 />
               </h2>
@@ -166,6 +167,7 @@ function App() {
                     strings: "jangan marah-marah terus doong..",
                     autoStart: true,
                     loop: false,
+                    delay: 50,
                   }}
                 />
               </h2>
@@ -185,6 +187,7 @@ function App() {
                     strings: "nanti tua-nya jelek. heheee",
                     autoStart: true,
                     loop: false,
+                    delay: 50,
                   }}
                 />
               </h2>
@@ -204,6 +207,7 @@ function App() {
                     strings: "maaf yaa bikin kamu kesel terus",
                     autoStart: true,
                     loop: false,
+                    delay: 50,
                   }}
                 />
               </h2>
@@ -220,9 +224,10 @@ function App() {
                   // }}
                   className="main-text"
                   options={{
-                    strings: "ninggalin kamu terus",
+                    strings: "sibuk terus..",
                     autoStart: true,
                     loop: false,
+                    delay: 50,
                   }}
                 />
               </h2>
