@@ -54,7 +54,7 @@ function Galaxy() {
         style={{
           background: `url(${background})`,
           backgroundSize: "stretch",
-          minHeight: "100dvh",
+          minHeight: "100svh",
           minWidth: "100vw",
           display: "flex",
           justifyContent: "center",
