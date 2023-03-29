@@ -59,6 +59,7 @@ function Galaxy() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
+          color: "white",
         }}
       >
         <div>
